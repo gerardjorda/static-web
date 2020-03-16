@@ -8,6 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Los reptilianos son, básicamente, reptiles con forma humanoide que tienen la capacidad de transformarse en un humano común y corriente a voluntad. Según la creencia, esta especie tiene como único objetivo infiltrarse entre los humanos, específicamente en las altas esferas del poder, para esclavizar la Tierra y, bueno, conquistar el mundo.
 
+<img src="https://media.metrolatam.com/2019/01/18/crop-9e53cfc94657f296a973845614c0a60e.jpg">
 ```markdown
 Syntax highlighted code block
 
