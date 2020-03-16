@@ -1,14 +1,12 @@
 ## Gerard Jordà
 
-<h1>Gerard Jordà</h1>
-
 You can use the [editor on GitHub](https://github.com/gerardjorda/static-web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Loco cocaine
+### Los reptilianos existen
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Los reptilianos son, básicamente, reptiles con forma humanoide que tienen la capacidad de transformarse en un humano común y corriente a voluntad. Según la creencia, esta especie tiene como único objetivo infiltrarse entre los humanos, específicamente en las altas esferas del poder, para esclavizar la Tierra y, bueno, conquistar el mundo.
 
 ```markdown
 Syntax highlighted code block
