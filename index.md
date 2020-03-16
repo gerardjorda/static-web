@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Gerard Jordà
 
 You can use the [editor on GitHub](https://github.com/gerardjorda/static-web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
